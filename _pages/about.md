@@ -35,11 +35,11 @@ I am actively seeking opportunities as a research intern and PhD at 25Fall or 25
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network](https://arxiv.org/abs/2210.16478)
+GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network
 
-**Ziyu Shan**<sup>\*</sup>, Qi Yang<sup>\*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
+- **Ziyu Shan**<sup>\*</sup>, Qi Yang<sup>\*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
 
-[**pdf**](https://arxiv.org/abs/2210.16478)
+- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
 </div>
 </div>
 
