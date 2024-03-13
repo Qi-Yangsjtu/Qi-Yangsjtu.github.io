@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2nd-year Master student of [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). Before that, I received my Bachelor degree from SJTU, ranking top 20\%.
+I am a 2nd-year Master student of [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), advised by [Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). Before that, I received my Bachelor degree from SJTU, ranking top 20%.
 
 My research interests lie in media perceptual quality assessment (e.g., 3D point cloud, image, video) and low-level vision. Specifically, I focus on learning-based no-reference point cloud quality assessment.
 
@@ -32,7 +32,7 @@ I am actively seeking opportunities as a research intern and PhD at 25Fall or 25
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network
