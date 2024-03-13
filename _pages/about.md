@@ -32,7 +32,7 @@ I am actively seeking opportunities as a research intern and PhD at 25Fall or 25
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="70%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network
