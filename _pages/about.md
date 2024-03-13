@@ -27,35 +27,28 @@ I am actively seeking opportunities as a research intern and PhD at 25Fall or 25
 - *2024.03*: One paper (PAME) is accepted by **ICME2024**! 
 - *2024.02*: One paper (CoPA) is accepted by **CVPR2024**!
 - *2023.12*: One paper (MFT-PCQA) is accepted by **ICASSP2024**!
-- *2023.5*: One paper (GPA-Net) is accepted by **IEEE Transactions on Visualization and Computer Graphics(TVCG)**! 
+- *2023.06*: The Second Prize of the IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge (full-reference track).
+- *2023.05*: One paper (GPA-Net) is accepted by **IEEE Transactions on Visualization and Computer Graphics(TVCG)**! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width=160></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network](https://arxiv.org/abs/2210.16478)
 
-**Ziyu Shan**<sup>*</sup>, Qi Yang<sup>*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
+**Ziyu Shan**<sup>\*</sup>, Qi Yang<sup>\*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**pdf**](https://arxiv.org/abs/2210.16478)
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10* Xiao Mi Scholarship. 
+- *2022.06* Outstanding Graduate of Shanghai Jiaotong University.
+- *2022.06* SJTU Scholarship B Prize.
+- *2021.09* Ceyear China Scholarship.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Services
+- Reviewers for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), IEEE International Conference on Multimedia and Expo (ICME) 2024.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
