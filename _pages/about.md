@@ -50,5 +50,8 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 - *2021.09* Ceyear China Scholarship.
 
 # 💻 Services
-- Reviewers for IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), IEEE International Conference on Multimedia and Expo (ICME) 2024.
+- Reviewers for:
+  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+  - IEEE International Conference on Multimedia and Expo (ICME) 2024.
 
