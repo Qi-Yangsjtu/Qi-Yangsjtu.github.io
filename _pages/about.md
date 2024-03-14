@@ -62,7 +62,7 @@ PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality As
 MFT-PCQA: Multi-Modal Fusion Transformer for No-Reference Point Cloud Quality Assessment
 - Yating Liu<sup>\*</sup>, **Ziyu Shan<sup>\*</sup>**, Yujie Zhang, Yiling Xu<sup>†</sup>
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+- [**\[pdf\]**](https://arxiv.org/abs/2210.16478)
 </div>
 </div>
 
