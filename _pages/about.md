@@ -56,7 +56,7 @@ PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality As
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/PAME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/MFT-PCQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MFT-PCQA: Multi-Modal Fusion Transformer for No-Reference Point Cloud Quality Assessment
