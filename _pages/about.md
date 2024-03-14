@@ -30,9 +30,31 @@ I am actively seeking opportunities as a research intern and PhD at 25Fall or 25
 - *2023.06*: The Second Prize of the IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge (full-reference track).
 - *2023.05*: One paper (GPA-Net) is accepted by **IEEE Transactions on Visualization and Computer Graphics(TVCG)**! 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2023</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment
+
+- **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Jenq-Neng Hwang, Xiaozhong Xu, Shan Liu
+
+- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment
+
+- **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
+
+- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network
