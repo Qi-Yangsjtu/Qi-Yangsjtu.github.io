@@ -23,14 +23,14 @@ My research interests lie in media perceptual quality assessment (e.g., 3D point
 
 I am actively seeking opportunities as a research intern and PhD at 25Fall or 25 Spring, please feel free to contact me!!!
 
-# 🔥 News
+## 🔥 News
 - *2024.03*: One paper (PAME) is accepted by **ICME2024**! 
 - *2024.02*: One paper (CoPA) is accepted by **CVPR2024**!
 - *2023.12*: One paper (MFT-PCQA) is accepted by **ICASSP2024**!
 - *2023.06*: The Second Prize of the IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge (full-reference track).
 - *2023.05*: One paper (GPA-Net) is accepted by **IEEE Transactions on Visualization and Computer Graphics (TVCG,CCF-A)**! 
 
-# 📝 Selected Publications 
+## 📝 Selected Publications 
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
@@ -77,13 +77,13 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 </div>
 </div>
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2023.10* Xiao Mi Scholarship. 
 - *2022.06* Outstanding Graduate of Shanghai Jiaotong University.
 - *2022.06* SJTU Scholarship B Prize.
 - *2021.09* Ceyear China Scholarship.
 
-# 💻 Services
+## 💻 Services
 - Reviewers for:
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
