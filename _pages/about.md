@@ -41,7 +41,7 @@ Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Qua
 
 - **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Jenq-Neng Hwang, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+- [**\[pdf\]**](https://arxiv.org/abs/2403.10066) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
 </div>
 </div>
 
@@ -52,7 +52,7 @@ PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality As
 
 - **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+- [**\[pdf\]**](https://arxiv.org/abs/2403.10061) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
 </div>
 </div>
 
