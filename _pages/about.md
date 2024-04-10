@@ -48,7 +48,7 @@ Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Qua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/PAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment $\color{red}{Oral}$
+PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment <font color='red'> (Oral) </font>
 
 - **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
 
