@@ -24,7 +24,7 @@ My research interests lie in media perceptual quality assessment (e.g., 3D point
 I am actively seeking opportunities as a research intern and PhD at 25Fall or 25 Spring, please feel free to contact me!!!
 
 ## 🔥 News
-- *2024.03*: One paper (PAME) is accepted by **ICME2024**! 
+- *2024.03*: One paper (PAME) is accepted by **ICME2024 (Oral)**! 
 - *2024.02*: One paper (CoPA) is accepted by **CVPR2024**!
 - *2023.12*: One paper (MFT-PCQA) is accepted by **ICASSP2024**!
 - *2023.06*: The Second Prize of the IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge (full-reference track).
@@ -48,7 +48,7 @@ Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Qua
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/PAME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment
+PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment $\color{red}{Oral}$
 
 - **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
 
