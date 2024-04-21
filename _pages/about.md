@@ -89,4 +89,5 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
   - IEEE International Conference on Multimedia and Expo (ICME) 2024.
+  - ACM International Conference on Multimedia (MM) 2024.
 
