@@ -19,7 +19,7 @@ redirect_from:
 
 I am a 2nd-year Master student of [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). Before that, I received my Bachelor degree from SJTU, ranking top 20%.
 
-I am currently advised by [Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en), and working closely with [Rui Ye](https://rui-ye.github.io/). My research interests lie in media perceptual quality assessment (e.g., 3D point cloud, image, video) and low-level vision. Specifically, I focus on learning-based no-reference point cloud quality assessment.
+I am currently advised by [Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en), and fortunately working closely with [Rui Ye](https://rui-ye.github.io/). My research interests lie in media perceptual quality assessment (e.g., 3D point cloud, image, video) and low-level vision. Specifically, I focus on learning-based no-reference point cloud quality assessment.
 
 I am actively seeking opportunities as a research intern and PhD at 25Fall or 25 Spring, please feel free to contact me!!!
 
