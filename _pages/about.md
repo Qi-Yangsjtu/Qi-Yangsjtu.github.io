@@ -90,4 +90,5 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
   - IEEE International Conference on Multimedia and Expo (ICME) 2024.
   - ACM International Conference on Multimedia (MM) 2024.
+  - Annual Conference on Neural Information Processing Systems (NeurIPS) 2024.
 
