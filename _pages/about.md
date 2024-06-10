@@ -24,7 +24,7 @@ I am currently advised by [Prof. Yiling Xu](https://scholar.google.com/citations
 I am actively seeking opportunities for PhD at 25Fall or 25 Spring, please feel free to contact me!!!
 
 ## 🔥 News
-- *2024.06*: Starting my summer research (on-site) advised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) at [CityU](https://www.cityu.edu.hk/)**! 
+- *2024.06*: Starting my summer research (on-site) advised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) at [CityU](https://www.cityu.edu.hk/)! 
 - *2024.03*: One paper (PAME) is accepted by **ICME2024 (Oral)**! 
 - *2024.02*: One paper (CoPA) is accepted by **CVPR2024**!
 - *2023.12*: One paper (MFT-PCQA) is accepted by **ICASSP2024**!
