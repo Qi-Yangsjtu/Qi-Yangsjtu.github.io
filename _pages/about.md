@@ -74,7 +74,7 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 
 - **Ziyu Shan**<sup>\*</sup>, Qi Yang<sup>\*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+- [**\[pdf\]**](https://arxiv.org/abs/2210.16478)
 </div>
 </div>
 
