@@ -89,6 +89,7 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 - Reviewers for:
   - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
   - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
+  - Elsevier Neurocomputing.
   - IEEE International Conference on Multimedia and Expo (ICME) 2024.
   - ACM International Conference on Multimedia (MM) 2024.
   - Annual Conference on Neural Information Processing Systems (NeurIPS) 2024.
