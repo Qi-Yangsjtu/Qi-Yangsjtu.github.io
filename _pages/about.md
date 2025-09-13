@@ -19,7 +19,7 @@ redirect_from:
 
 I am a first year PhD student of [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at [Nanyang Techological University](https://www.ntu.edu.sg/). Before that, I received my Bachelor and Master degree from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), ranking top 20%.
 
-I am currently advised by [Prof. Ziwei Wang])(https://ziweiwangthu.github.io/), and working closely with [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en) and [Rui Ye](https://rui-ye.github.io/). My research interests lie in embodied ai, world model, media perceptual quality assessment (e.g., 3D point cloud, image) and low-level vision. Specifically, I focus on world model and mobile manipulation.
+I am currently advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/), and working closely with [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en) and [Rui Ye](https://rui-ye.github.io/). My research interests lie in embodied ai, world model, media perceptual quality assessment (e.g., 3D point cloud, image) and low-level vision. Specifically, I focus on world model and mobile manipulation.
 
 I am actively seeking opportunities for Research Internship, please feel free to contact me!!!
 
@@ -44,7 +44,7 @@ I am actively seeking opportunities for Research Internship, please feel free to
 
 Point Cloud Compression and Objective Quality Assessment: A Survey
 
-Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, **Ziyu Shan**<sup>\*</sup>, Wenjie Huang, Qi Yang, Le Yang
+Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, **Ziyu Shan**, Wenjie Huang, Qi Yang, Le Yang
 
 - [**\[pdf\]**](https://arxiv.org/abs/2506.22902)
 </div>
