@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 2nd-year Master student of [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). Before that, I received my Bachelor degree from SJTU, ranking top 20%.
+I am a first year PhD student of [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at [Nanyang Techological University](https://www.ntu.edu.sg/). Before that, I received my Bachelor and Master degree from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), ranking top 20%.
 
-I am currently advised by [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en), and working closely with [Rui Ye](https://rui-ye.github.io/). My research interests lie in media perceptual quality assessment (e.g., 3D point cloud, image, video) and low-level vision. Specifically, I focus on learning-based no-reference point cloud quality assessment.
+I am currently advised by [Prof. Ziwei Wang])(https://ziweiwangthu.github.io/), and working closely with [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en) and [Rui Ye](https://rui-ye.github.io/). My research interests lie in embodied ai, world model, media perceptual quality assessment (e.g., 3D point cloud, image) and low-level vision. Specifically, I focus on world model and mobile manipulation.
 
-I am actively seeking opportunities for PhD at 25Fall or 25 Spring, please feel free to contact me!!!
+I am actively seeking opportunities for Research Internship, please feel free to contact me!!!
 
 ## 🔥 News
+- *2025.06*: Our survey on point cloud compression and quality assessment is released!
+- *2025.04*: Joined PINE @ NTU!
 - *2024.09*: I am honored with China National Scholarship 2024! 
 - *2024.09*: One paper (DisPA) is accepted by **NeurIPS2024**! 
 - *2024.06*: Starting my summer research (on-site) advised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) at [CityU](https://www.cityu.edu.hk/)! 
@@ -37,8 +39,32 @@ I am actively seeking opportunities for PhD at 25Fall or 25 Spring, please feel 
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Point Cloud Compression and Objective Quality Assessment: A Survey
+
+Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, **Ziyu Shan**<sup>\*</sup>, Wenjie Huang, Qi Yang, Le Yang
+
+- [**\[pdf\]**](https://arxiv.org/abs/2506.22902)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/dispa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization
+
+- **Ziyu Shan**<sup>\*</sup>, Yujie Zhang<sup>\*</sup>, Yipeng Liu, Yiling Xu<sup>†</sup>
+
+- [**\[pdf\]**](https://arxiv.org/abs/2411.07936) [**\[code\]**](https://github.com/zyshan0929/PAME)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CoPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment
 
@@ -55,7 +81,7 @@ PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality As
 
 - **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2403.10061) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
+- [**\[pdf\]**](https://arxiv.org/abs/2403.10061) [**\[code\]**](https://github.com/zyshan0929/PAME)
 </div>
 </div>
 
