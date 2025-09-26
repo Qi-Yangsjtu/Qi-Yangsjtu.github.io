@@ -107,7 +107,7 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 </div>
 
 ## 🎖 Honors and Awards
-- *2023.10* Xiao Mi Scholarship.
+- *2024.10* China National Scholarship.
 - *2023.10* SJTU Scholarship A Prize (Graduates).
 - *2022.06* Outstanding Graduate of Shanghai Jiaotong University.
 - *2022.06* SJTU Scholarship B Prize (Undergraduates).
@@ -120,5 +120,5 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
   - Elsevier Neurocomputing.
   - IEEE International Conference on Multimedia and Expo (ICME) 2024.
   - ACM International Conference on Multimedia (MM) 2024.
-  - Annual Conference on Neural Information Processing Systems (NeurIPS) 2024.
+  - Annual Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025.
 
