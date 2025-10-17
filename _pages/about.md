@@ -69,7 +69,7 @@ Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, Ziyu Sh
 
 HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder
 
-- **Qi Yang**, Le Yang, Geert Van Der Auwera, Zhu Li
+- **Qi Yang**<sup>†</sup>, Le Yang, Geert Van Der Auwera, Zhu Li
 
 - [**\[pdf\]**](https://arxiv.org/abs/2505.01938) [**\[code\]**](https://github.com/Qi-Yangsjtu/HybridGS)
 </div>
