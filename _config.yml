@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Ziyu Shan (单子雨) | Nanyang Techological University"
-description              : "PhD Student at Nanyang Techological University."
-repository               : "ziyushan0929/zyshan0929.github.io"
+title                    : "Qi Yang (杨琦) | University of Missouri - Kansas City"
+description              : "Postdoctoral Researcher."
+repository               : "https://github.com/Qi-Yangsjtu"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Ziyu Shan"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Nanyang Techological University"
-  location         : "Singapore"
+  name             : "Qi Yang"
+  avatar           : "images/QiYang.jpg"
+  bio              : "University of Missouri - Kansas City"
+  location         : "America"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=McMyJ_0AAAAJ"
-  email            : "shan0148@e.ntu.edu.sg"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=87nXDYAAAAAJ&hl=zh-CN"
+  email            : "qiyang@umkc.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-3346-4261"
+  orcid            : "https://orcid.org/0000-0002-4274-3457"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
