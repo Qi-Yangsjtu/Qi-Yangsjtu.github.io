@@ -63,14 +63,14 @@ Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, **Ziyu 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS</div><img src='images/dispa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML</div><img src='images/HybridGS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Learning Disentangled Representations for Perceptual Point Cloud Quality Assessment via Mutual Information Minimization
+HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder
 
-- **Ziyu Shan**<sup>\*</sup>, Yujie Zhang<sup>\*</sup>, Yipeng Liu, Yiling Xu<sup>†</sup>
+- **Qi Yang**, Le Yang, Geert Van Der Auwera, Zhu Li
 
-- [**\[pdf\]**](https://arxiv.org/abs/2411.07936) [**\[code\]**](https://github.com/zyshan0929/PAME)
+- [**\[pdf\]**](https://arxiv.org/abs/2505.01938) [**\[code\]**](https://github.com/Qi-Yangsjtu/HybridGS)
 </div>
 </div>
 
@@ -86,35 +86,68 @@ Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Qua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME</div><img src='images/PAME.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP</div><img src='images/GeodesicPSIM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PAME: Self-Supervised Masked Autoencoder for No-Reference Point Cloud Quality Assessment <font color='red'> (Oral) </font>
+GeodesicPSIM: Predicting the Quality of Static Mesh with Texture Map via Geodesic Patch Similarity
 
-- **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Shan Liu
+- **Qi Yang**<sup>†</sup>, Joel Jung, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2403.10061) [**\[code\]**](https://github.com/zyshan0929/PAME)
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10766360) [**\[code\]**](https://multimedia.tencent.com/resources/GeodesicPSIM)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP</div><img src='images/MFT-PCQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/TDMD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MFT-PCQA: Multi-Modal Fusion Transformer for No-Reference Point Cloud Quality Assessment
-- Yating Liu<sup>\*</sup>, **Ziyu Shan<sup>\*</sup>**, Yujie Zhang, Yiling Xu<sup>†</sup>
+Tdmd: A database for dynamic color mesh quality assessment study
+- **Qi Yang**<sup>†</sup>, Joel Jung, Timon Deschamps, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478)
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10659186)[**\[code\]**](https://multimedia.tencent.com/resources/tdmd)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/GPA-Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/MPED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network
+MPED: Quantifying point cloud distortion based on multiscale potential energy discrepancy
 
-- **Ziyu Shan**<sup>\*</sup>, Qi Yang<sup>\*</sup>, Rui Ye, Yujie Zhang, Yiling Xu<sup>†</sup>, Xiaozhong Xu, Shan Liu
+- **Qi Yang**<sup>\*</sup>, Yujie Zhang<sup>\*</sup>, Siheng Chen, Yiling Xu<sup>†</sup>, Jun Sun, Zhan Ma
 
-- [**\[pdf\]**](https://arxiv.org/abs/2210.16478)
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/9917335)[**\[code\]**](https://github.com/Qi-Yangsjtu/MPED)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/ITPCQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+No-reference point cloud quality assessment via domain adaptation
+
+- **Qi Yang**<sup>\*</sup>, Yipeng Liu<sup>\*</sup>, Siheng Chen, Yiling Xu<sup>†</sup>, Jun Sun
+
+- [**\[pdf\]**](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.html)[**\[code\]**](https://github.com/Qi-Yangsjtu/IT-PCQA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/GraphSIM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Inferring point cloud quality via graph similarity
+
+- **Qi Yang**, Zhan Ma<sup>†</sup>, Yiling Xu<sup>†</sup>, Zhu Li, Jun Sun
+
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/9306905)[**\[code\]**](https://njuvision.github.io/GraphSIM)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM</div><img src='images/SJTUPCQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Predicting the perceptual quality of point cloud: A 3d-to-2d projection-based exploration
+
+- **Qi Yang**, Hao Chen, Zhan Ma<sup>†</sup>, Yiling Xu<sup>†</sup>, Rongjun Tang, Jun Sun
+
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/9238424)[**\[code\]**](https://smt.sjtu.edu.cn/database/point-cloud-subjective-assessment-database/)
 </div>
 </div>
 
