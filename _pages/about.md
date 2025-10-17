@@ -65,8 +65,6 @@ Wenjie Huang, **Qi Yang**, Shuting Xia, He Huang, Zhu Li, Yiling Xu<sup>†</sup
 </div>
 
 
-<sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/HyperScore.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
