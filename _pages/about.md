@@ -57,7 +57,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 Point Cloud Compression and Objective Quality Assessment: A Survey
 
-Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, **Ziyu Shan**, Wenjie Huang, Qi Yang, Le Yang
+Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, Ziyu Shan, Wenjie Huang, **Qi Yang**, Le Yang
 
 - [**\[pdf\]**](https://arxiv.org/abs/2506.22902)
 </div>
@@ -81,7 +81,7 @@ HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel
 
 Contrastive Pre-Training with Multi-View Fusion for No-Reference Point Cloud Quality Assessment
 
-- **Ziyu Shan**, Yujie Zhang, Qi Yang, Haichen Yang, Yiling Xu<sup>†</sup>, Jenq-Neng Hwang, Xiaozhong Xu, Shan Liu
+- Ziyu Shan, Yujie Zhang, **Qi Yang**, Haichen Yang, Yiling Xu<sup>†</sup>, Jenq-Neng Hwang, Xiaozhong Xu, Shan Liu
 
 - [**\[pdf\]**](https://arxiv.org/abs/2403.10066) [**\[code\]**](https://github.com/zyshan0929/GPA-Net)
 </div>
