@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) Lab] at Univeristy of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
+I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) Lab] at the University of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
 
-I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera]([https://rui-ye.github.io/](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
+I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera](https://rui-ye.github.io/](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
 
 ## 🔥 News
 
@@ -119,18 +119,37 @@ GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convol
 </div>
 
 ## 🎖 Honors and Awards
-- *2024.10* China National Scholarship.
-- *2023.10* SJTU Scholarship A Prize (Graduates).
-- *2022.06* Outstanding Graduate of Shanghai Jiaotong University.
-- *2022.06* SJTU Scholarship B Prize (Undergraduates).
-- *2021.09* Ceyear China Scholarship.
+
+- *2023* Outstanding Staff, Tencent Media Lab
+- *2022* Outstanding Staff, Tencent Media Lab
+- *2021.10* China National Scholarship for PhD students, Shanghai Jiao Tong University.
+- *2020.06* Scholarship for Outstanding Graduate Students, CMIC of Shanghai Jiao Tong University
+- *2019.06* Scholarship for Outstanding Graduate Students, CMIC of Shanghai Jiao Tong University
+- *2019.02* Scholarship for Outstanding Graduate Students, CMIC of Shanghai Jiao Tong University
+- *2020.6* Excellent Graduate Student, Xi'dian University.
 
 ## 💻 Services
 - Reviewers for:
-  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
-  - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM).
-  - Elsevier Neurocomputing.
-  - IEEE International Conference on Multimedia and Expo (ICME) 2024.
-  - ACM International Conference on Multimedia (MM) 2024.
-  - Annual Conference on Neural Information Processing Systems (NeurIPS) 2024, 2025.
+  - Journal
+    - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+    - IEEE Transactions on Image Processing (TIP)
+    - IEEE Transactions on Visualization and Computer Graphics (TVCG)
+    - IEEE Transactions on MultiMedia (TMM)
+    - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    - ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)
+    - Elsevier Neurocomputing
+  - Conference
+    - International Conference on Learning Representation (ICLR)
+    - International Conference on Machine Learning (ICML)
+    - Annual Conference on Neural Information Processing Systems (NeurIPS)
+    - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+    - IEEE/CVF International Conference on Computer Vision (ICCV)
+    - European Conference on Computer Vision (ECCV)
+    - International Joint Conference on Artificial Intelligence (IJCAI)
+    - Association for the Advancement of Artificial Intelligence (AAAI)
+    - ACM International Conference on Multimedia (ACM MM)
+    - IEEE International Conference on Multimedia and Expo (ICME)
+    - IEEE International Conference on Image Processing (ICIP)
+    - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+    - IEEE International Conference on Visual Communications and Image Processing (VCIP)
 
