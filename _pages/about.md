@@ -17,23 +17,35 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first year PhD student of [Perception and embodied INtElligence (PINE) Lab](https://pine-lab-ntu.github.io/) at [Nanyang Techological University](https://www.ntu.edu.sg/). Before that, I received my Bachelor and Master degree from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), ranking top 20%.
+I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) Lab] at Univeristy of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
 
-I am currently advised by [Prof. Ziwei Wang](https://ziweiwangthu.github.io/), and working closely with [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en) and [Rui Ye](https://rui-ye.github.io/). My research interests lie in embodied ai, world model, media perceptual quality assessment (e.g., 3D point cloud, image) and low-level vision. Specifically, I focus on world model and mobile manipulation.
-
-I am actively seeking opportunities for Research Internship, please feel free to contact me!!!
+I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera]([https://rui-ye.github.io/](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
 
 ## 🔥 News
+
+- *2025.09*: TMQA is accepted by **TVCG**!
+- *2025.06*: LINR-PCGC and MATE-3D are accepted by **ICCV 2025**!
 - *2025.06*: Our survey on point cloud compression and quality assessment is released!
-- *2025.04*: Joined PINE @ NTU!
-- *2024.09*: I am honored with China National Scholarship 2024! 
-- *2024.09*: One paper (DisPA) is accepted by **NeurIPS2024**! 
-- *2024.06*: Starting my summer research (on-site) advised by [Prof. Shiqi Wang](https://www.cs.cityu.edu.hk/~shiqwang/) at [CityU](https://www.cityu.edu.hk/)! 
-- *2024.03*: One paper (PAME) is accepted by **ICME2024 (Oral)**! 
-- *2024.02*: One paper (CoPA) is accepted by **CVPR2024**!
-- *2023.12*: One paper (MFT-PCQA) is accepted by **ICASSP2024**!
-- *2023.06*: The Second Prize of the IEEE ICIP Point Cloud Visual Quality Assessment Grand Challenge (full-reference track).
-- *2023.05*: One paper (GPA-Net) is accepted by **IEEE Transactions on Visualization and Computer Graphics (TVCG,CCF-A)**! 
+- *2024.05*: HybridGS is accepted by **ICML 2025**!
+- *2025.04*: ADC-GS is accepted by **IJCAI 2025**!
+- *2024.12*: Our mesh compression paper is selected as the best paper candidate by **VCIP 2024**!
+- *2024.12*: AFQ-Net is accepted by **T-CSVT**!
+- *2024.11*: GeodesicPSIM is accepted by **TIP**!
+- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACMM MM Asia 2024**!
+- *2024.10*: PHM is accepted by **TIP**!
+- *2024.09*: Joined MCC lab @ UMKC, founded by **Qualcomm**!
+- *2024.09*: GLQI is accepted by **TOMM**!
+- *2024.08*: TDMD is accepted by **TVCG**!
+- *2024.03*: PAME is accepted by **ICME2024 (Oral)**! 
+- *2024.02*: CoPA is accepted by **CVPR2024**!
+- *2023.10*: TCDM is accepted by **TVCG**! 
+- *2023.05*: GPA-Net is accepted by **TVCG**!
+- *2023.02*: ResSCNN&LS-PCQA is accepted by **TOMM**!
+- *2022.10*: MPED is accepted by **TPAMI**!
+- *2022.02*: IT-PCQA is accepted by **CVPR2022**!
+- *2021.10*: MS-GraphSIM is accepted by **ACM MM 2021 (Oral)**!
+- *2020.12*: GraphSIM is accepted by **TPAMI**!
+- *2020.10*: SJTU-PCQA is accepted by **TMM**!
 
 ## 📝 Selected Publications 
 
