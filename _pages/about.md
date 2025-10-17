@@ -50,7 +50,34 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 ## 📝 Selected Publications 
 
+
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/LINRPCGC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression
+
+Wenjie Huang, **Qi Yang**, Shuting Xia, He Huang, Zhu Li, Yiling Xu<sup>†</sup>
+
+- [**\[pdf\]**](https://arxiv.org/abs/2507.15686)[**\[code\]**](https://huangwenjie2023.github.io/LINR-PCGC/)
+</div>
+</div>
+
+
+<sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/HyperScore.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Benchmarking and Learning Multi-Dimensional Quality Evaluator for Text-to-3D Generation
+
+Yujie Zhang<sup>\*</sup>, Bingyang Cui<sup>\*</sup>, **Qi Yang**, Zhu Li, Yiling Xu<sup>†</sup>
+
+- [**\[pdf\]**](https://arxiv.org/abs/2412.11170)[**\[code\]**](https://mate-3d.github.io/)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arixv</div><img src='images/survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -74,6 +101,18 @@ HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel
 - [**\[pdf\]**](https://arxiv.org/abs/2505.01938) [**\[code\]**](https://github.com/Qi-Yangsjtu/HybridGS)
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI</div><img src='images/ADCGS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction
+
+- He Huang<sup>\*</sup>, **Qi Yang**<sup>\*</sup>, Mufan Liu, Yiling Xu<sup>†</sup>, Zhu Li
+
+- [**\[pdf\]**](https://arxiv.org/abs/2505.08196) [**\[code\]**](https://github.com/H-Huang774/ADC-GS.git)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CoPA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
