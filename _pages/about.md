@@ -23,6 +23,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 ## 🔥 News
 
+- *2025.10*: I was selected as **Top Reviewer** by **NeurIPS2025**!
 - *2025.09*: TMQA is accepted by **TVCG**!
 - *2025.06*: LINR-PCGC and MATE-3D are accepted by **ICCV 2025**!
 - *2025.06*: Our survey on point cloud compression and quality assessment is released!
