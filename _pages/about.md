@@ -19,7 +19,7 @@ redirect_from:
 
 I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) Lab] at the University of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
 
-I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera](https://rui-ye.github.io/](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
+I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
 
 ## 🔥 News
 
