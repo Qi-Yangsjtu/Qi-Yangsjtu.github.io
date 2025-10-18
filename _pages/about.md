@@ -51,7 +51,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2020.10*: SJTU-PCQA is accepted by **TMM**!
 
 
-<span class='anchor' id='-piblications'></span>
+<span class='anchor' id='-publications'></span>
 ## 📝 Selected Publications 
 
 
