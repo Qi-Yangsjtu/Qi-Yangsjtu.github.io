@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
 ## About Me
 
 I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) Lab] at the University of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
