@@ -20,9 +20,6 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 
-url: "https://Qi-Yangsjtu.github.io"
-baseurl: "/QiYang.github.io"
-
 # Site Author
 author:
   name             : "Qi Yang"
