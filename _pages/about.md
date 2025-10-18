@@ -21,6 +21,8 @@ I am a postdoctoral researcher of [Multimedia Computing & Communication (MCC) La
 
 I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
 
+<span class='anchor' id='-news'></span>
+
 ## 🔥 News
 
 - *2025.10*: I was selected as **Top Reviewer** by **NeurIPS2025**!
@@ -48,6 +50,8 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2020.12*: GraphSIM is accepted by **TPAMI**!
 - *2020.10*: SJTU-PCQA is accepted by **TMM**!
 
+
+<span class='anchor' id='-piblications'></span>
 ## 📝 Selected Publications 
 
 
@@ -189,6 +193,7 @@ Predicting the perceptual quality of point cloud: A 3d-to-2d projection-based ex
 </div>
 </div>
 
+<span class='anchor' id='-honors-and-awards'></span>
 ## 🎖 Honors and Awards
 
 - *2023* Outstanding Staff, Tencent Media Lab
@@ -198,6 +203,9 @@ Predicting the perceptual quality of point cloud: A 3d-to-2d projection-based ex
 - *2019.06* Scholarship for Outstanding Graduate Students, CMIC of Shanghai Jiao Tong University
 - *2019.02* Scholarship for Outstanding Graduate Students, CMIC of Shanghai Jiao Tong University
 - *2020.6* Excellent Graduate Student, Xi'dian University.
+
+
+<span class='anchor' id='-services'></span>
 
 ## 💻 Services
 - Reviewers for:
