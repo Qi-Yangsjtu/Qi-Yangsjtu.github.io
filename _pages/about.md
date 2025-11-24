@@ -37,7 +37,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2024.12*: Our mesh compression paper is selected as the best paper candidate by **VCIP2024**!
 - *2024.12*: AFQ-Net is accepted by **TCSVT**!
 - *2024.11*: GeodesicPSIM is accepted by **TIP**!
-- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACMMMM Asia 2024 (Oral)**!
+- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACM MMAsia2024 (Oral)**!
 - *2024.10*: PHM is accepted by **TIP**!
 - *2024.09*: Joined MCC lab @ UMKC, founded by **Qualcomm**!
 - *2024.09*: GLQI is accepted by **TOMM**!
@@ -49,7 +49,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2023.02*: ResSCNN&LS-PCQA is accepted by **TOMM**!
 - *2022.10*: MPED is accepted by **TPAMI**!
 - *2022.02*: IT-PCQA is accepted by **CVPR2022**!
-- *2021.10*: MS-GraphSIM is accepted by **ACMMM 2021 (Oral)**!
+- *2021.10*: MS-GraphSIM is accepted by **ACM MM2021 (Oral)**!
 - *2020.12*: GraphSIM is accepted by **TPAMI**!
 - *2020.10*: SJTU-PCQA is accepted by **TMM**!
 
