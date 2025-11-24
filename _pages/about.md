@@ -26,7 +26,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 ## 🔥 News
 
-- *2025.11*: LGSCV is accepted by **DCC2026**!
+- *2025.11*: LGSCV is accepted by **DCC2026 (Oral)**!
 - *2025.11*: DWIT-PCQA is accepted by **TCSVT**!
 - *2025.10*: I was selected as **Top Reviewer** by **NeurIPS2025**!
 - *2025.09*: TMQA is accepted by **TVCG**!
@@ -34,10 +34,10 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2025.06*: Our survey on point cloud compression and quality assessment is released!
 - *2024.05*: HybridGS is accepted by **ICML 2025**!
 - *2025.04*: ADC-GS is accepted by **IJCAI 2025**!
-- *2024.12*: Our mesh compression paper is selected as the best paper candidate by **VCIP 2024**!
-- *2024.12*: AFQ-Net is accepted by **T-CSVT**!
+- *2024.12*: Our mesh compression paper is selected as the best paper candidate by **VCIP2024**!
+- *2024.12*: AFQ-Net is accepted by **TCSVT**!
 - *2024.11*: GeodesicPSIM is accepted by **TIP**!
-- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACMM MM Asia 2024**!
+- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACMMMM Asia 2024 (Oral)**!
 - *2024.10*: PHM is accepted by **TIP**!
 - *2024.09*: Joined MCC lab @ UMKC, founded by **Qualcomm**!
 - *2024.09*: GLQI is accepted by **TOMM**!
@@ -49,7 +49,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2023.02*: ResSCNN&LS-PCQA is accepted by **TOMM**!
 - *2022.10*: MPED is accepted by **TPAMI**!
 - *2022.02*: IT-PCQA is accepted by **CVPR2022**!
-- *2021.10*: MS-GraphSIM is accepted by **ACM MM 2021 (Oral)**!
+- *2021.10*: MS-GraphSIM is accepted by **ACMMM 2021 (Oral)**!
 - *2020.12*: GraphSIM is accepted by **TPAMI**!
 - *2020.10*: SJTU-PCQA is accepted by **TMM**!
 
