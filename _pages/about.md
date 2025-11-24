@@ -26,6 +26,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 ## 🔥 News
 
+- *2025.11*: LGSCV is accepted by **DCC2026**!
 - *2025.11*: DWIT-PCQA is accepted by **TCSVT**!
 - *2025.10*: I was selected as **Top Reviewer** by **NeurIPS2025**!
 - *2025.09*: TMQA is accepted by **TVCG**!
