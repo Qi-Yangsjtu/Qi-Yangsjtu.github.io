@@ -71,9 +71,6 @@ Lightweight 3D Gaussian Splatting Compression via Video Codec
 </div>
 </div>
 
-
-<sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/LINRPCGC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
