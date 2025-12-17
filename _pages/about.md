@@ -58,6 +58,19 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 <span class='anchor' id='-publications'></span>
 ## 📝 Selected Publications 
 
+<sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCC(Oral)</div><img src='images/LGSCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Lightweight 3D Gaussian Splatting Compression via Video Codec
+
+**Qi Yang**<sup>†</sup>, Geert Van Der Auwera, Zhu Li
+
+- [**\[pdf\]**](https://www.arxiv.org/abs/2512.11186)[**\[code\]**](https://github.com/Qi-Yangsjtu/LGSCV)
+</div>
+</div>
+
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
