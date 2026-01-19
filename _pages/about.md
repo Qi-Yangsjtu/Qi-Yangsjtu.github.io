@@ -26,6 +26,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 
 ## 🔥 News
 
+- *2026.01*: [Light4GS](https://arxiv.org/abs/2503.13948) is accepted by **TCSVT**!
 - *2025.11*: AS-3DGS is accepted by **TCSVT**!
 - *2025.11*: LGSCV is accepted by **DCC2026 (Oral)**!
 - *2025.11*: DWIT-PCQA is accepted by **TCSVT**!
