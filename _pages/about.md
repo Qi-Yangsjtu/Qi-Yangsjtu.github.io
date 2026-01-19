@@ -27,33 +27,33 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 ## 🔥 News
 
 - *2026.01*: [Light4GS](https://arxiv.org/abs/2503.13948) is accepted by **TCSVT**!
-- *2025.11*: AS-3DGS is accepted by **TCSVT**!
-- *2025.11*: LGSCV is accepted by **DCC2026 (Oral)**!
-- *2025.11*: DWIT-PCQA is accepted by **TCSVT**!
+- *2025.11*: [AS-3DGS](https://ieeexplore.ieee.org/document/11271024) is accepted by **TCSVT**!
+- *2025.11*: [LGSCV](https://arxiv.org/abs/2512.11186) is accepted by **DCC2026 (Oral)**!
+- *2025.11*: [DWIT-PCQA](https://ieeexplore.ieee.org/document/11248916) is accepted by **TCSVT**!
 - *2025.10*: I was selected as **Top Reviewer** by **NeurIPS2025**!
-- *2025.09*: TMQA is accepted by **TVCG**!
-- *2025.06*: LINR-PCGC and MATE-3D are accepted by **ICCV 2025**!
-- *2025.06*: Our survey on point cloud compression and quality assessment is released!
-- *2024.05*: HybridGS is accepted by **ICML 2025**!
-- *2025.04*: ADC-GS is accepted by **IJCAI 2025**!
-- *2024.12*: Our mesh compression paper is selected as the best paper candidate by **VCIP2024**!
-- *2024.12*: AFQ-Net is accepted by **TCSVT**!
-- *2024.11*: GeodesicPSIM is accepted by **TIP**!
-- *2024.10*: GGSC&GSQA and MS-GeodesicPSIM are accepted by **ACM MMAsia2024 (Oral)**!
-- *2024.10*: PHM is accepted by **TIP**!
+- *2025.09*: [TMQA](https://ieeexplore.ieee.org/abstract/document/11175524) is accepted by **TVCG**!
+- *2025.06*: [LINR-PCGC](https://openaccess.thecvf.com/content/ICCV2025/html/Huang_LINR-PCGC_Lossless_Implicit_Neural_Representations_for_Point_Cloud_Geometry_Compression_ICCV_2025_paper.html) and [MATE-3D](https://openaccess.thecvf.com/content/ICCV2025/html/Zhang_Benchmarking_and_Learning_Multi-Dimensional_Quality_Evaluator_for_Text-to-3D_Generation_ICCV_2025_paper.html) are accepted by **ICCV 2025**!
+- *2025.06*: Our [survey](https://arxiv.org/abs/2506.22902) on point cloud compression and quality assessment is released!
+- *2025.05*: [HybridGS](https://openreview.net/forum?id=6mQv4fnsj0) is accepted by **ICML 2025**!
+- *2025.04*: [ADC-GS](https://arxiv.org/abs/2505.08196) is accepted by **IJCAI 2025**!
+- *2024.12*: Our [mesh compression paper](https://ieeexplore.ieee.org/abstract/document/10849939) is selected as the best paper candidate by **VCIP2024**!
+- *2024.12*: [AFQ-Net](https://ieeexplore.ieee.org/abstract/document/10777517) is accepted by **TCSVT**!
+- *2024.11*: [GeodesicPSIM](https://ieeexplore.ieee.org/abstract/document/10766360) is accepted by **TIP**!
+- *2024.10*: [GGSC&GSQA](https://dl.acm.org/doi/full/10.1145/3696409.3700172) and [MS-GeodesicPSIM](https://dl.acm.org/doi/full/10.1145/3696409.3700162) are accepted by **ACM MMAsia2024 (Oral)**!
+- *2024.10*: [PHM](https://ieeexplore.ieee.org/abstract/document/10706825) is accepted by **TIP**!
 - *2024.09*: Joined MCC lab @ UMKC, founded by **Qualcomm**!
-- *2024.09*: GLQI is accepted by **TOMM**!
-- *2024.08*: TDMD is accepted by **TVCG**!
-- *2024.03*: PAME is accepted by **ICME2024 (Oral)**! 
-- *2024.02*: CoPA is accepted by **CVPR2024**!
-- *2023.10*: TCDM is accepted by **TVCG**! 
-- *2023.05*: GPA-Net is accepted by **TVCG**!
-- *2023.02*: ResSCNN&LS-PCQA is accepted by **TOMM**!
-- *2022.10*: MPED is accepted by **TPAMI**!
-- *2022.02*: IT-PCQA is accepted by **CVPR2022**!
-- *2021.10*: MS-GraphSIM is accepted by **ACM MM2021 (Oral)**!
-- *2020.12*: GraphSIM is accepted by **TPAMI**!
-- *2020.10*: SJTU-PCQA is accepted by **TMM**!
+- *2024.09*: [GLQI](https://dl.acm.org/doi/full/10.1145/3672567) is accepted by **TOMM**!
+- *2024.08*: [TDMD](https://ieeexplore.ieee.org/abstract/document/10659186) is accepted by **TVCG**!
+- *2024.03*: [PAME](https://arxiv.org/abs/2403.10061) is accepted by **ICME2024 (Oral)**! 
+- *2024.02*: [CoPA](https://openaccess.thecvf.com/content/CVPR2024/html/Shan_Contrastive_Pre-Training_with_Multi-View_Fusion_for_No-Reference_Point_Cloud_Quality_CVPR_2024_paper.html) is accepted by **CVPR2024**!
+- *2023.10*: [TCDM](https://ieeexplore.ieee.org/abstract/document/10337742) is accepted by **TVCG**! 
+- *2023.05*: [GPA-Net](https://ieeexplore.ieee.org/abstract/document/10168055) is accepted by **TVCG**!
+- *2023.02*: [ResSCNN&LS-PCQA](https://dl.acm.org/doi/full/10.1145/3550274) is accepted by **TOMM**!
+- *2022.10*: [MPED](https://ieeexplore.ieee.org/abstract/document/9917335) is accepted by **TPAMI**!
+- *2022.02*: [IT-PCQA](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.html) is accepted by **CVPR2022**!
+- *2021.10*: [MS-GraphSIM](https://dl.acm.org/doi/abs/10.1145/3474085.3475294) is accepted by **ACM MM2021 (Oral)**!
+- *2020.12*: [GraphSIM](https://ieeexplore.ieee.org/abstract/document/9306905) is accepted by **TPAMI**!
+- *2020.10*: [SJTU-PCQA](https://ieeexplore.ieee.org/abstract/document/9238424) is accepted by **TMM**!
 
 
 <span class='anchor' id='-publications'></span>
