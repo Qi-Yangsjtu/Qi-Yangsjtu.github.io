@@ -18,14 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 ## About Me
 
-I am a postdoctoral researcher of Multimedia Computing & Communication (MCC) Lab at the University of Missouri - Kansas City. Before that, I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
+Now, I am a research scientist in Bytedance America, and working with [Dr. Kai Zhang](https://scholar.google.com/citations?user=5rhIVxQAAAAJ&hl=zh-CN&oi=ao) and [Dr. Li Zhang](https://scholar.google.com/citations?hl=zh-CN&user=8G5-2OMAAAAJ). 
 
-I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https://l.web.umkc.edu/lizhu/)), and working closely with [Dr. Geert Van Der Auwera](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
+2024.10~2026.1, I am a postdoctoral researcher of Multimedia Computing & Communication (MCC) Lab at the University of Missouri - Kansas City, advised by [Prof. Zhu Li](https://l.web.umkc.edu/lizhu/), and working closely with [Dr. Geert Van Der Auwera](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
+
+2022.07~2024.04, I am a senior researcher in Tencent Media Lab, advised by [Dr. Xiaozhong Xu](https://scholar.google.com/citations?user=Xs4QqgcAAAAJ&hl=zh-CN) and [Dr. Shan Liu](https://scholar.google.com/citations?user=bdBZ43wAAAAJ&hl=zh-CN). My project include 3D point cloud and mesh quality assessment.
+
+I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
 
 <span class='anchor' id='-news'></span>
 
 ## 🔥 News
 
+- *2026.01*: I joint Bytedance America as a research scientist!
 - *2026.01*: [Light4GS](https://arxiv.org/abs/2503.13948) is accepted by **TCSVT**!
 - *2025.11*: [AS-3DGS](https://ieeexplore.ieee.org/document/11271024) is accepted by **TCSVT**!
 - *2025.11*: [LGSCV](https://arxiv.org/abs/2512.11186) is accepted by **DCC2026 (Oral)**!
@@ -50,6 +55,7 @@ I am currently advised by [Prof. Zhu Li]([https://ziweiwangthu.github.io/](https
 - *2023.05*: [GPA-Net](https://ieeexplore.ieee.org/abstract/document/10168055) is accepted by **TVCG**!
 - *2023.02*: [ResSCNN&LS-PCQA](https://dl.acm.org/doi/full/10.1145/3550274) is accepted by **TOMM**!
 - *2022.10*: [MPED](https://ieeexplore.ieee.org/abstract/document/9917335) is accepted by **TPAMI**!
+- *2022.07*: I joint Tecent Media Lab as a senior researcher!
 - *2022.02*: [IT-PCQA](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_No-Reference_Point_Cloud_Quality_Assessment_via_Domain_Adaptation_CVPR_2022_paper.html) is accepted by **CVPR2022**!
 - *2021.10*: [MS-GraphSIM](https://dl.acm.org/doi/abs/10.1145/3474085.3475294) is accepted by **ACM MM2021 (Oral)**!
 - *2020.12*: [GraphSIM](https://ieeexplore.ieee.org/abstract/document/9306905) is accepted by **TPAMI**!
