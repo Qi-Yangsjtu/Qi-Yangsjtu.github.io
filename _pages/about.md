@@ -22,9 +22,9 @@ Now, I am a research scientist in Bytedance America, and working with [Dr. Kai Z
 
 2024.10~2026.1, I am a postdoctoral researcher of Multimedia Computing & Communication (MCC) Lab at the University of Missouri - Kansas City, advised by [Prof. Zhu Li](https://l.web.umkc.edu/lizhu/), and working closely with [Dr. Geert Van Der Auwera](https://www.linkedin.com/in/geertvanderauwera/) and [Prof. Yiling Xu](https://scholar.google.com/citations?user=638kRwkAAAAJ&hl=en). My research interests include 3D Gaussian Splatting (GS) compact generation and compression, media quality assessment (i.e., 3D GS, 3D point cloud, and 3D mesh), and immersive media streaming.
 
-2022.07~2024.04, I am a senior researcher in Tencent Media Lab, advised by [Dr. Xiaozhong Xu](https://scholar.google.com/citations?user=Xs4QqgcAAAAJ&hl=zh-CN) and [Dr. Shan Liu](https://scholar.google.com/citations?user=bdBZ43wAAAAJ&hl=zh-CN). My project include 3D point cloud and mesh quality assessment.
+2022.07~2024.04, I was a senior researcher in Tencent Media Lab, working with [Dr. Joel Jung](https://scholar.google.com.hk/citations?user=1lyVrF0AAAAJ&hl=zh-CN), [Dr. Xiaozhong Xu](https://scholar.google.com/citations?user=Xs4QqgcAAAAJ&hl=zh-CN) and [Dr. Shan Liu](https://scholar.google.com/citations?user=bdBZ43wAAAAJ&hl=zh-CN). My project includes 3D point cloud and mesh quality assessment.
 
-I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor degree from [Xidian University](https://en.xidian.edu.cn/).
+I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), and bachelor's degree from [Xidian University](https://en.xidian.edu.cn/).
 
 <span class='anchor' id='-news'></span>
 
