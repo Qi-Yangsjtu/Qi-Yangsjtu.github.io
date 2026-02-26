@@ -30,6 +30,7 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 
 ## 🔥 News
 
+- *2026.02*: [RAP](https://arxiv.org/abs/2602.19753) is accepted by **CVPR 2026**!
 - *2026.01*: I joint Bytedance America as a research scientist!
 - *2026.01*: [Light4GS](https://arxiv.org/abs/2503.13948) is accepted by **TCSVT**!
 - *2025.11*: [AS-3DGS](https://ieeexplore.ieee.org/document/11271024) is accepted by **TCSVT**!
