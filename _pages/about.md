@@ -68,6 +68,19 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/RAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+RAP: Fast Feedforward Rendering-Free Attribute-Guided Primitive Importance Score Prediction for Efficient 3D Gaussian Splatting Processing
+
+Kaifa Yang, **Qi Yang**<sup>†</sup>, Yiling Xu<sup>†</sup>, Zhu Li
+
+- [**\[pdf\]**](https://arxiv.org/abs/2602.19753)[**\[code\]**](https://github.com/yyyykf/RAP)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCC(Oral)</div><img src='images/LGSCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
