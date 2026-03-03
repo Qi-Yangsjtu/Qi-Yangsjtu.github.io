@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qi Yang (杨琦) | University of Missouri - Kansas City"
-description              : "Postdoctoral Researcher."
+title                    : "Qi Yang (杨琦) | Bytedance America"
+description              : "Research Scientist"
 repository               : "https://github.com/Qi-Yangsjtu"
 google_scholar_stats_use_cdn : false
 
@@ -24,12 +24,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Yang"
   avatar           : "images/QiYang.jpg"
-  bio              : "University of Missouri - Kansas City"
+  bio              : "Bytedance America"
   location         : "America"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=87nXDYAAAAAJ&hl=zh-CN"
-  email            : "qiyang@umkc.edu"
+  email            : "chino.yang@bytedance.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
