@@ -49,9 +49,10 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 - *2024.10*: [PHM](https://ieeexplore.ieee.org/abstract/document/10706825) is accepted by **TIP**!
 - *2024.09*: Joined MCC lab @ UMKC, founded by **Qualcomm**!
 - *2024.09*: [GLQI](https://dl.acm.org/doi/full/10.1145/3672567) is accepted by **TOMM**!
-- *2024.08*: [TDMD](https://ieeexplore.ieee.org/abstract/document/10659186) is accepted by **TVCG**!
+- *2024.08*: Our [mesh dataset paper - TDMD](https://ieeexplore.ieee.org/abstract/document/10659186) is accepted by **TVCG**!
 - *2024.03*: [PAME](https://arxiv.org/abs/2403.10061) is accepted by **ICME2024 (Oral)**! 
 - *2024.02*: [CoPA](https://openaccess.thecvf.com/content/CVPR2024/html/Shan_Contrastive_Pre-Training_with_Multi-View_Fusion_for_No-Reference_Point_Cloud_Quality_CVPR_2024_paper.html) is accepted by **CVPR2024**!
+- *2023.12*: Our [mesh dataset paper - TSMD](https://ieeexplore.ieee.org/abstract/document/10402660) is accepted by **VCIP2023**!
 - *2023.10*: [TCDM](https://ieeexplore.ieee.org/abstract/document/10337742) is accepted by **TVCG**! 
 - *2023.05*: [GPA-Net](https://ieeexplore.ieee.org/abstract/document/10168055) is accepted by **TVCG**!
 - *2023.02*: [ResSCNN&LS-PCQA](https://dl.acm.org/doi/full/10.1145/3550274) is accepted by **TOMM**!
