@@ -184,6 +184,20 @@ Tdmd: A database for dynamic color mesh quality assessment study
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VCIP</div><img src='images/TSMD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+TSMD: A Database for Static Color Mesh Quality Assessment Study
+- **Qi Yang**<sup>†</sup>, Joel Jung, Xiaozhong Xu, Shan Liu
+
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10402660)[**\[code\]**](https://multimedia.tencent.com/en/resources/tsmd)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/MPED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/MPED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
