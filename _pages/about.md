@@ -180,7 +180,7 @@ GeodesicPSIM: Predicting the Quality of Static Mesh with Texture Map via Geodesi
 Tdmd: A database for dynamic color mesh quality assessment study
 - **Qi Yang**<sup>†</sup>, Joel Jung, Timon Deschamps, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10659186)[**\[code\]**](https://multimedia.tencent.com/resources/tdmd)
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10659186)[**\[code\]**](https://multimedia.tencent.com/en/resources/tdmd)
 </div>
 </div>
 
