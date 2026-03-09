@@ -170,7 +170,7 @@ GeodesicPSIM: Predicting the Quality of Static Mesh with Texture Map via Geodesi
 
 - **Qi Yang**<sup>†</sup>, Joel Jung, Xiaozhong Xu, Shan Liu
 
-- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10766360) [**\[code\]**](https://multimedia.tencent.com/resources/GeodesicPSIM)
+- [**\[pdf\]**](https://ieeexplore.ieee.org/abstract/document/10766360) [**\[code\]**](https://github.com/Qi-Yangsjtu/GeodesicPSIM)
 </div>
 </div>
 
