@@ -195,9 +195,6 @@ TSMD: A Database for Static Color Mesh Quality Assessment Study
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/MPED.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/MPED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
