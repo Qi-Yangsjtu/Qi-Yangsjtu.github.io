@@ -30,6 +30,7 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 
 ## 🔥 News
 
+- *2026.05*: I was selected as **Silver Reviewer** by **ICML2026**!
 - *2026.04*: [SwiftWRF](https://arxiv.org/abs/2506.12787) is accepted by **TVCG**!
 - *2026.02*: [RAP](https://arxiv.org/abs/2602.19753) is accepted by **CVPR 2026**!
 - *2026.01*: I joint Bytedance America as a research scientist!
