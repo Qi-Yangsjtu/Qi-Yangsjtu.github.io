@@ -30,6 +30,8 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 
 ## 🔥 News
 
+- *2026.09*: [SGR](https://dl.acm.org/doi/full/10.1145/3664199) is selected as **TOMM Best Paper Award 2025**!
+- *2026.09*: MAMG is accepted by **TMM**!
 - *2026.08*: [Rank2Score](https://arxiv.org/pdf/2509.23841) is accepted by **IJCV**!
 - *2026.05*: [ADC-GS++](https://ieeexplore.ieee.org/abstract/document/11526990) is accepted by **TVCG**!
 - *2026.05*: I was selected as **Silver Reviewer** by **ICML2026**!
