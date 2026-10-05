@@ -30,6 +30,26 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 
 ## 🔥 News
 
+<style>
+.news-scroll {
+  max-height: 240px;
+  overflow-y: auto;
+  padding-right: 12px;
+  scrollbar-gutter: stable;
+  scrollbar-width: thin;
+}
+.news-scroll > ul { margin-top: 0; margin-bottom: 0; }
+.news-scroll-hint { margin: 0 0 8px; color: inherit; font-size: 0.8em; }
+@media print {
+  .news-scroll { max-height: none; overflow: visible; padding-right: 0; }
+  .news-scroll-hint { display: none; }
+}
+</style>
+
+<p class="news-scroll-hint">Scroll down for older updates ↓</p>
+<div class="news-scroll" markdown="1" role="region" aria-label="News updates" tabindex="0">
+
+
 - *2026.09*: [SGR](https://dl.acm.org/doi/full/10.1145/3664199) is selected as **TOMM Best Paper Award 2025**!
 - *2026.09*: MAMG is accepted by **TMM**!
 - *2026.08*: [Rank2Score](https://arxiv.org/pdf/2509.23841) is accepted by **IJCV**!
@@ -69,6 +89,8 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 - *2020.12*: [GraphSIM](https://ieeexplore.ieee.org/abstract/document/9306905) is accepted by **TPAMI**!
 - *2020.10*: [SJTU-PCQA](https://ieeexplore.ieee.org/abstract/document/9238424) is accepted by **TMM**!
 
+
+</div>
 
 <span class='anchor' id='-publications'></span>
 ## 📝 Selected Publications 
