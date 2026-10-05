@@ -76,6 +76,18 @@ I received my PhD from [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.ed
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/cui-IJCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Towards Fine-Grained Text-to-3D Quality Assessment: A Benchmark and A Two-Stage Rank-Learning Metric
+
+Bingyang Cui, Yujie Zhang, **Qi Yang**<sup>†</sup>, Zhu Li, Yiling Xu<sup>†</sup>
+
+- [**\[pdf\]**](https://link.springer.com/article/10.1007/s11263-026-02994-x)[**\[code\]**](https://cbysjtu.github.io/Rank2Score/)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/RAP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
