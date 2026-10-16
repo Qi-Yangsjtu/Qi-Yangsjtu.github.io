@@ -69,6 +69,7 @@ I received my Ph.D. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/
 <p class="news-scroll-hint">Scroll down for older updates ↓</p>
 <div class="news-scroll" markdown="1" role="region" aria-label="News updates" tabindex="0">
 
+- *2026.10*: I was selected as **Outstanding Reviewer** by **CVPR 2026**!
 - *2026.09*: [SGR](https://dl.acm.org/doi/full/10.1145/3664199) received the **TOMM Best Paper Award 2025**!
 - *2026.09*: MAMG was accepted by **TMM**!
 - *2026.08*: [Rank2Score](https://arxiv.org/pdf/2509.23841) was accepted by **IJCV**!
@@ -401,6 +402,7 @@ Yiling Xu<sup>†</sup>, Yujie Zhang, Shuting Xia, Kaifa Yang, He Huang, Ziyu Sh
 <span class="anchor" id="-honors-and-awards"></span>
 ## 🎖 Honors and Awards
 
+- **2026.10** · **Outstanding Reviewer**, CVPR 2026
 - **2026.09** · **TOMM Best Paper Award 2025**, [SGR](https://dl.acm.org/doi/full/10.1145/3664199)
 - **2026.05** · **Silver Reviewer**, ICML 2026
 - **2025.10** · **Top Reviewer**, NeurIPS 2025
